@@ -10,6 +10,6 @@ public class Main {
         int bonusMiles = Price / Mile;
 
         // Выводим результат на экран
-        System.out.println("За билет стоимостью рублей начисляется " + bonusMiles + " миль.");
+        System.out.println("За билет начисляется " + bonusMiles + " миль.");
     }
 }
